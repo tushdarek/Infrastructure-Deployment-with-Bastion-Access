@@ -1,6 +1,6 @@
 # Secure Private Infrastructure Deployment
 ## Bastion Access and IAM Role-Based Architecture
-**Region:** ap-west-2 | **Internship Project — AWS Cloud Security**
+**Region:** ap-west-2 | ** — AWS Cloud Security**
 
 ---
 
